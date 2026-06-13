@@ -1,0 +1,7 @@
+title: Instagram Detailed List Viewer
+description: Instagram data export viewer for followers, following, not-following-back reports, list comparison, and AI-powered insights.
+url: https://singaporeandurian.github.io
+baseurl: /instagram-detailed-list-viewer
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
